@@ -1,6 +1,6 @@
 # Skript Lineare Algebra 1
 
-Diese Mitschrift entstand während der Vorlesung **Lineare Algebra II** im Herbstsemester 2011 an der Uni Bern. 
+Diese Mitschrift entstand während der Vorlesung **Lineare Algebra I** im Herbstsemester 2011 an der Uni Bern. 
 
 ## Lizenz
 Das Skript ist ausschliesslich für privaten Gebrauch zu verwenden und nicht zur Veröffentlichung oder kommerziellen Nutzung, da Teile davon urheberrechtlich geschützt sein könnten.
